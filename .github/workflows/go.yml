@@ -37,4 +37,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
         push: true
-        tags: ssalsabilaa/belajar-cicd-pemula:latest
+        tags: salsabilaa/belajar-cicd-pemula:latest
